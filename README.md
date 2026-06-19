@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Sábanas rotas |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-rotas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Sábanas rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-rotas/) |
+| **Get License** | [Commercial Licensing for Sábanas rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-rotas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Me miras así y me quitas la calma,
-> sabes que esta noche te entrego mi alma.
-> Sábanas rotas dejadas en la cama,
-> tú eres la locura que mi cuerpo llama.
+> Sábanas rotas en mi cama esta noche
+> Tu perfume queda aunque no estés, derroche
+> Mi cuerpo llama, dame ese derroche
+> Sábanas rotas, baby, ven, aproveche
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
