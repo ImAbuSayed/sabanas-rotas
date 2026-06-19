@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me miras así y me quitas la calma,
+> sabes que esta noche te entrego mi alma.
+> Sábanas rotas dejadas en la cama,
+> tú eres la locura que mi cuerpo llama.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
