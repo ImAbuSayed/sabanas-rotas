@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Sábanas rotas
+
+This log tracks the cryptographic history and versioning for the song **Sábanas rotas** (sabanas-rotas).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T01:20:29.386520 | `v1` | `c20afc01598bc10ade03927778f2da6e3b1fd33b0cb1864a701f1a6cb50f6b6f` | `0503330c6e417fd349fa3a1b4c5393165d357ac897b3edd3ef7a362e31c5ec2c` | `2026-06-20_sabanas-rotas-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

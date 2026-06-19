@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-rotas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sábanas rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-rotas/) |
+| **Get License** | [Obtain a Music License for Sábanas rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-rotas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c20afc01598bc10ade03927778f2da6e3b1fd33b0cb1864a701f1a6cb50f6b6f` |
 | **Timestamp** | June 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
